@@ -12,7 +12,7 @@ public class Homework1 {
 			}
 			counter++;
 		}
-		System.out.println("Broj se moze podjeliti "+sum+" puta.");
+		System.out.println(" The number can be divided "+sum+" times.");
 	}
 
 }
